@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: CLOUDCONFIGSERVER-SERVICE
 eureka:
   instance:
     hostname: localhost
